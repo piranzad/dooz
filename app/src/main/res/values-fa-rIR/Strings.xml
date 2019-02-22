@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دوزبازی آنلاین</string>
+
+    <string name="open">Open Drawer</string>
+
+    <string name="close">Close Drawer</string>
+
+    <string name="btn_Add_friends">اضافه کردن به دوستان</string>
+
+    <string name="one_player">بازی یه نفره</string>
+
+    <string name="two_player">بازی دونفره</string>
+
+    <string name="comments">نظرات</string>
+
+    <string name="friends">لیست دوستان</string>
+
+    <string name="play_game">درخواست بازی</string>
+
+    <string name="send_message">ارسال پیام</string>
+
+    <string name="block">بلاک کردن</string>
+
+    <string name="unblock">خارج شدن از بلاک</string>
+
+    <string name="editprofile">ویرایش پروفایل</string>
+
+    <string name="send">ارسال</string>
+
+    <string name="username">نام کاربری</string>
+
+    <string name="password">رمز عبور</string>
+
+    <string name="login">ورود</string>
+
+    <string name="repeatpassword">تکرار رمز عبور</string>
+
+    <string name="edit_profile">ویرایش پروفایل</string>
+
+    <string name="age">سن</string>
+
+    <string name="name">نام</string>
+
+    <string name="save_image">ذخیره تصویر</string>
+
+    <string name="create_new_account">ساختن حساب کاربری جدید</string>
+
+    <string name="sign_up">ایجاد حساب کاربری</string>
+
+    <string name="i_have_an_account_login">من حساب کاربری دارم | ورود</string>
+
+    <string name="nobate_shoma">بازی کن</string>
+
+    <string name="nobate_harif">"صبر کن…"</string>
+
+    <string name="friends_list">لیست دوستان</string>
+
+    <string name="searching">در حال جستجو...</string>
+</resources>
